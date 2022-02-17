@@ -24,3 +24,11 @@ The guessing game is two-person game called "Guess the number". The first player
 |-----|------------|
 |LLR_01 | reference number |
 |LLR_02 |guessed number |
+
+## Implementation Structure
+Folder        | Description
+--------------| ----------------------------------------------
+`inc`         |  header files
+`src`         | Source code files for solvinng Arthimetic operations
+`test`        | All source code and data for testing purposes
+`unity`       | Files for unit testing
