@@ -1,3 +1,4 @@
+# GUESSING GAME
 ## Introduction
 The guessing game is two-person game called "Guess the number". The first player thinks of an integer within a known range. If the guess is incorrect then the first player tells the second player whether the guess was too high or too low. Eventusally the second player guesses the correct number. 
 ## SWOT ANALYSIS
@@ -24,3 +25,11 @@ The guessing game is two-person game called "Guess the number". The first player
 |-----|------------|
 |LLR_01 | reference number |
 |LLR_02 |guessed number |
+
+## Learning Resources
+
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+ 
