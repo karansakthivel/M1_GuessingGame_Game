@@ -25,7 +25,7 @@ The guessing game is two-person game called "Guess the number". The first player
 |LLR_01 | reference number |
 |LLR_02 |guessed number |
 
-## Implementation Structure
+## IMPLEMENTATION STRUCTURE:
 Folder        | Description
 --------------| ----------------------------------------------
 `inc`         |  header files
