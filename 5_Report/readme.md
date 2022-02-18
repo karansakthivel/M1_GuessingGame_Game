@@ -40,3 +40,11 @@ Folder        | Description
 |  HLT_02      | guessing a number  | num=5,guess=-2 | guess the number within the range|
 |  HLT_03      |guessing a number| num=5, guess=7| your number is greater than the guess number | 
 |  HLT_04      |guessing a number| num=5, guess=11| enter the number within the range| 
+
+## Learning Resources
+
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+ 
